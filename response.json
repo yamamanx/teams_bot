@@ -1,0 +1,68 @@
+{
+  'type': 'message',
+  'id': '1533797777279',
+  'timestamp': '2018-08-09T06:56:17.314Z',
+  'localTimestamp': '2018-08-09T15:56:17.314+09:00',
+  'serviceUrl': 'https://smba.trafficmanager.net/apac/',
+  'channelId': 'msteams',
+  'from': {
+    'id': '29:1pSusODlcg3ySvehgnUhMKcNvY_WHYkQ1GQ1PFr78AvvkEp7_dRUoskmqDKSgNtGsylDL-cikWEFRrwsTthNlIQ',
+    'name': 'YAMASHITA Mitsuhiro',
+    'aadObjectId': '73a004cf-8461-4249-bc5c-aa9580636354'
+  },
+  'conversation': {
+    'isGroup': True,
+    'id': '19:d35721f4d67d4a24972def97b47b7960@thread.skype;messageid=1533797777279',
+    'name': None,
+    'conversationType': 'channel'
+  },
+  'recipient': None,
+  'textFormat': 'plain',
+  'attachmentLayout': None,
+  'membersAdded': [],
+  'membersRemoved': [],
+  'topicName': None,
+  'historyDisclosed': None,
+  'locale': None,
+  'text': '<at>tra-bot</at>&nbsp;てすと\n',
+  'speak': None,
+  'inputHint': None,
+  'summary': None,
+  'suggestedActions': None,
+  'attachments': [
+    {
+      'contentType': 'text/html',
+      'contentUrl': None,
+      'content': '<div><div><span itemscope="" itemtype="http://schema.skype.com/Mention" itemid="0">tra-bot</span>&nbsp;てすと</div>\n</div>',
+      'name': None,
+      'thumbnailUrl': None
+    }
+  ],
+  'entities': [
+    {
+      'type': 'clientInfo',
+      'locale': 'ja-JP',
+      'country': 'JP',
+      'platform': 'Mac'
+    }
+  ],
+  'channelData': {
+    'teamsChannelId': '19:d35721f4d67d4a24972def97b47b7960@thread.skype',
+    'teamsTeamId': '19:25a9b34a73054a7f9bd71bd7571a5e6b@thread.skype',
+    'channel': {
+      'id': '19:d35721f4d67d4a24972def97b47b7960@thread.skype'
+    },
+    'team': {
+      'id': '19:25a9b34a73054a7f9bd71bd7571a5e6b@thread.skype'
+    },
+    'tenant': {
+      'id': '2afca618-9872-4325-ad08-1ce36ba8d378'
+    }
+  },
+  'action': None,
+  'replyToId': None,
+  'value': None,
+  'name': None,
+  'relatesTo': None,
+  'code': None
+}
