@@ -11,6 +11,8 @@ AWS Lambda Python 3.6.1 + API Gatewayで動作します。
 
 詳細は以下の記事をご確認ください。
 
+[Microsoft TeamsのOutgoing Webhooksを使ってAWS Lambda(Python), Amazon API Gatewayとbot](https://www.yamamanx.com/microsoft-teams-outgoing-webhooks-aws-lambdapython-amazon-apigateway-bot/)
+
 [docomo Developer supportの 雑談対話APIから自然対話APIへ移行しました](https://www.yamamanx.com/docomo-developer-support-api/)
 
 [slackのbotをAWS Lambda(Python)+API Gatewayで構築](https://www.yamamanx.com/slack-bot-aws-lambda-python-api-gateway/)
